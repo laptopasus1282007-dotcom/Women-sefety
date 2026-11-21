@@ -1,0 +1,83 @@
+{
+  "pin_code": "440024",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "country": "India",
+  "coordinates": {
+    "latitude": 21.0856,
+    "longitude": 79.0241
+  },
+  "sub_areas": [
+    "Zingabai Takli",
+    "Mankapur",
+    "Koradi Road",
+    "Godhani",
+    "Sadar"
+  ],
+  "emergency_helplines": [
+    {
+      "name": "Nagpur Police 'Bharosa Cell' (Women & Child Crisis Cell)",
+      "phone": "0712-2561100",
+      "available": "24/7"
+    },
+    {
+      "name": "Nagpur Police Control Room & Damini Pathak Squad",
+      "phone": "0712-2561222",
+      "available": "24/7"
+    },
+    {
+      "name": "National Emergency Response (Police, Fire, Ambulance)",
+      "phone": "112",
+      "available": "24/7"
+    },
+    {
+      "name": "Maharashtra Women Helpline",
+      "phone": "1091",
+      "available": "24/7"
+    },
+    {
+      "name": "National Cyber Crime & Blackmail Helpline",
+      "phone": "1930",
+      "available": "24/7"
+    },
+    {
+      "name": "Maharashtra State Commission for Women (MSCW)",
+      "phone": "7477722424",
+      "available": "24/7"
+    }
+  ],
+  "nearby_safe_havens": [
+    {
+      "name": "Nagpur Police Station & Bharosa Cell Desk",
+      "type": "Police",
+      "latitude": 21.0891,
+      "longitude": 79.0269,
+      "phone": "112 / 0712-2561100",
+      "hours": "24/7 Open"
+    },
+    {
+      "name": "GMCH / Mayo Hospital Nagpur - Emergency ER",
+      "type": "Hospital",
+      "latitude": 21.0814,
+      "longitude": 79.0272,
+      "phone": "108",
+      "hours": "24/7 Trauma Unit"
+    },
+    {
+      "name": "24-Hour Verified Chemist & Pharmacy",
+      "type": "Pharmacy",
+      "latitude": 21.0874,
+      "longitude": 79.0202,
+      "phone": "1091",
+      "hours": "24/7 Open"
+    },
+    {
+      "name": "Nagpur Metro & Transit Security Outpost",
+      "type": "Transit Security",
+      "latitude": 21.0831,
+      "longitude": 79.0219,
+      "phone": "112",
+      "hours": "24/7 Guarded"
+    }
+  ]
+}

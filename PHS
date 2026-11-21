@@ -1,0 +1,23 @@
+phs-security/
+├── src/
+│   ├── types/security.ts          — All TypeScript interfaces
+│   ├── data/domains.ts            — Safe/blocked/brand domains
+│   ├── data/brands.ts             — 11 protected brands
+│   ├── data/demoUrls.ts           — 12 demo URLs
+│   ├── services/
+│   │   ├── homographDetector.ts   — Real Unicode char analysis
+│   │   ├── riskEngine.ts          — 10-rule scoring engine
+│   │   └── storage.ts             — localStorage CRUD
+│   ├── components/
+│   │   ├── Header.tsx / Sidebar.tsx
+│   │   ├── UrlScanner.tsx         — Animated multi-step scanner
+│   │   ├── SecurityPopup.tsx      — Chrome-style popup
+│   │   ├── BlockPage.tsx          — Full-screen phishing block
+│   │   ├── RiskMeter.tsx          — SVG circular meter
+│   │   ├── StatsCards.tsx         — Animated counters
+│   │   ├── ScanHistory.tsx        — Searchable history
+│   │   └── Notification.tsx       — Toast notifications
+│   └── pages/ (11 pages)
+│       Landing, Dashboard, Scanner, History, Threats,
+│       AllowList, BlockList, BrandProtection,
+│       DemoCenter, Architecture, Settings
